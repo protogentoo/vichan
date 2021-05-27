@@ -19,7 +19,7 @@ for this little imageboard project.
 
 
 --------------------------------------------------------------------
-TO-DO:
+TO-DO: xx
 
 
 
